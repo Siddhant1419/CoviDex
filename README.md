@@ -1,3 +1,3 @@
 # CoviDex
 
-### This App is under construction
+### This App is under construction.
